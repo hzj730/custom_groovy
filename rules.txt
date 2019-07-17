@@ -1,0 +1,1 @@
+zap org.codehaus.groovy.vmplugin.v7.IndyInterface
